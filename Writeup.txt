@@ -1,0 +1,19 @@
+This C# program demonstrates reading student details from a text file, performing sorting based on student names, and searching for a specific student by name.
+
+
+
+1.The program defines a class Student, which has properties nm (name) and Class (class number).
+
+2.Inside the Main method, the program reads student details from  "E:\Dotnet\Ph1-PracticeProject2\students.txt".
+	 It then stores the student details in a list of Student objects.       
+
+3.The program first prints all the student details in the original order, displaying the student's name and class.
+
+4.Next, the program performs sorting on the list of students based on their names using LINQ's OrderBy method, and then prints the sorted list.
+
+5.The program then prompts the user to enter a name for searching in the list.
+
+6.It uses LINQ's Where method to find students with a matching name and stores the result in a new list.
+7.If there are students found with the entered name, it prints the names and their corresponding classes. If no matching student is found, it displays an error message.
+
+8.Finally, the program waits for user input before closing.

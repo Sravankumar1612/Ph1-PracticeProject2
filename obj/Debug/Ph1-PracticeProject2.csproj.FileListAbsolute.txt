@@ -1,0 +1,8 @@
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\bin\Debug\Ph1-PracticeProject2.exe.config
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\bin\Debug\Ph1-PracticeProject2.exe
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\bin\Debug\Ph1-PracticeProject2.pdb
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\obj\Debug\Ph1-PracticeProject2.csproj.AssemblyReference.cache
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\obj\Debug\Ph1-PracticeProject2.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\obj\Debug\Ph1-PracticeProject2.csproj.CoreCompileInputs.cache
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\obj\Debug\Ph1-PracticeProject2.exe
+E:\Dotnet\Ph1-PracticeProject2\Ph1-PracticeProject2\obj\Debug\Ph1-PracticeProject2.pdb

@@ -1,0 +1,6 @@
+kumar 15
+Ram 1
+Arjun 2
+Rohit 13
+Rahul 10
+Arun 11
